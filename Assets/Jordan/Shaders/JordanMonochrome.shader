@@ -23,7 +23,6 @@ Shader "Unlit/JordanMonochrome"
             CGPROGRAM
             #pragma vertex vert
             #pragma fragment frag
-            // make fog work
             #pragma multi_compile_fog
 
             #include "UnityCG.cginc"
@@ -55,12 +54,9 @@ Shader "Unlit/JordanMonochrome"
 
             fixed4 frag (v2f i) : SV_Target
             {
-                // sample the texture
                 fixed4 col = tex2D(_MainTex, i.uv);
                 float intensity = col.x * 0.299 + col.y * 0.587 + col.z * 0.114;
                 fixed4 bandw = fixed4(intensity, intensity, intensity, col.w);
-                // apply fog
-                //UNITY_APPLY_FOG(i.fogCoord, col);
                 return bandw;
             }
             ENDCG
@@ -70,12 +66,9 @@ Stencil
             Comp Always
             Pass Keep
         }
-            Cull Front
-
             CGPROGRAM
             #pragma vertex vert
             #pragma fragment frag
-            // make fog work
             #pragma multi_compile_fog
 
             #include "UnityCG.cginc"
@@ -107,12 +100,9 @@ Stencil
 
             fixed4 frag (v2f i) : SV_Target
             {
-                // sample the texture
                 fixed4 col = tex2D(_MainTex, i.uv);
                 float intensity = col.x * 0.299 + col.y * 0.587 + col.z * 0.114;
                 fixed4 bandw = fixed4(intensity, intensity, intensity, col.w);
-                // apply fog
-                //UNITY_APPLY_FOG(i.fogCoord, col);
                 return bandw;
             }
             ENDCG
