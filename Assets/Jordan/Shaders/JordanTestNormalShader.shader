@@ -7,7 +7,7 @@ Shader "Unlit/JordanNormalTestShader"
     Properties
     {
         // Color property for material inspector, default to white
-        _Color ("Colour", Color) = (1,0,0,0.1)
+        _Color ("Colour", Color) = (1,1,1,1)
     }
     SubShader
     {
