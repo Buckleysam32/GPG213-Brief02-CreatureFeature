@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="377747ca-fc4b-439a-b231-5f656b096377" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GPG213-Brief02-CreatureFeature/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GPG213-Brief02-CreatureFeature/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Shaders/JordanMonochrome.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Jordan/Shaders/JordanMonochrome.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Shaders/JordanNewMonochromeShader.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Jordan/Shaders/JordanNewMonochromeShader.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleSceneJordan.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleSceneJordan.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
