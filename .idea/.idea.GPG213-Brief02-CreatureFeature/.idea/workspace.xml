@@ -6,31 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="377747ca-fc4b-439a-b231-5f656b096377" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GPG213-Brief02-CreatureFeature/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GPG213-Brief02-CreatureFeature/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Materials/JordanMonochromeMaterial.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Materials/JordanMonochromeMaterial.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Materials/JordanNewMonochromeShaderMaterial.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Materials/JordanNewMonochromeShaderMaterial.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Materials/JordanSamMonochromeMaterial.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Materials/JordanSamMonochromeMaterial.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Materials/JordanStencilShaderMaterial.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Materials/JordanStencilShaderMaterial.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Materials/JordanTestNormalShaderMaterial.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Materials/JordanTestNormalShaderMaterial.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Shaders/Copy of Sam Transparent.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Shaders/Copy of Sam Transparent.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Shaders/JordanMonochrome.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Shaders/JordanMonochrome.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Shaders/JordanNewMonochromeShader.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Shaders/JordanNewMonochromeShader.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Shaders/JordanNewMonochromeShader.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Shaders/JordanNewMonochromeShader.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Shaders/JordanStencilShader.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Shaders/JordanStencilShader.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Shaders/JordanTestNormalShader.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Shaders/JordanTestNormalShader.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Shaders/Unlit_Bubble.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Jordan/Shaders/Unlit_Bubble.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleSceneJordan.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleSceneJordan.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +35,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature/Jordan",
+    "git-widget-placeholder": "feature/Jordan-Image-Processing",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
@@ -123,6 +99,7 @@
       <workItem from="1711417241743" duration="13000" />
       <workItem from="1711417269387" duration="7929000" />
       <workItem from="1711500872491" duration="3017000" />
+      <workItem from="1711590325437" duration="12168000" />
     </task>
     <servers />
   </component>
